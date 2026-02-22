@@ -1,0 +1,12 @@
+# Python Django
+*.pyc
+__pycache__/
+db.sqlite3
+/media
+/static
+*.log
+*.pot
+*.py[cod]
+*.egg-info/
+.env
+*.env
