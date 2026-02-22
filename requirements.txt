@@ -1,0 +1,7 @@
+Django REST Framework
+PostgreSQL
+Docker
+# Production Dependencies
+whitenoise
+Gunicorn
+psycopg2-binary
